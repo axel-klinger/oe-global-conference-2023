@@ -14,4 +14,4 @@ More information
 * [Metadata form](https://oersi.gitlab.io/metadata-form/metadata-generator.html)
   * [Sources](https://gitlab.com/oersi/metadata-form) 
 * [Tutorial based on LiaScript](https://github.com/TIBHannover/oer-github-tutorial) to quick start into OER with GitHub - official version
-* [Tutorial based on template](https://smatts.github.io/oer-github-tutorial-template/) may be merged in the official one in the future
+* [Tutorial based on template](https://github.com/TIBHannover/oer-github-tutorial-template) same tutorial as above, but made with our template
