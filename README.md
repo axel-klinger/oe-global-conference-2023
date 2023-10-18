@@ -5,7 +5,7 @@ Presentation
 
 More information
 * [twillo](https://www.twillo.de/oer/web/) - OER portal of Lower Saxony/Germany
-* [OERSI](https://oersi.org/resources/) - internationsl open source search index for OER in higher education
+* [OERSI](https://oersi.org/resources/) - international open source search index for OER in higher education
   * [OERSI project](https://gitlab.com/oersi) 
 * [Pro Git](https://git-scm.com/book/en/v2) - example of an open textbook done as open source
   * [Sources](https://github.com/progit/progit2) of the book
@@ -14,4 +14,4 @@ More information
 * [Metadata form](https://oersi.gitlab.io/metadata-form/metadata-generator.html)
   * [Sources](https://gitlab.com/oersi/metadata-form) 
 * [Tutorial based on LiaScript](https://github.com/TIBHannover/oer-github-tutorial) to quick start into OER with GitHub - official version
-* [Tutorial based on template](https://smatts.github.io/oer-github-tutorial-template/) may be merged in the official one in future
+* [Tutorial based on template](https://smatts.github.io/oer-github-tutorial-template/) may be merged in the official one in the future
